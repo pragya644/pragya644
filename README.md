@@ -9,11 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/pragyasinghal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyasinghal18" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pragya-singhal-a63b2a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya singhal" height="30" width="40" /></a>
-<a href="https://instagram.com/pragyasinghal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pragyasinghal18" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pr1234agya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pr1234agya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singhalpragya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhalpragya3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pragya_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pragya_12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pragya_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragya_12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
